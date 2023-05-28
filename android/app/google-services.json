@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "203294645532",
+    "project_id": "kakuro-2748f",
+    "storage_bucket": "kakuro-2748f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203294645532:android:03730ef866d0b59eedaed9",
+        "android_client_info": {
+          "package_name": "com.example.game_kakuro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203294645532-eo04l2ij42h5uokrrgi0bob105md7tfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.game_kakuro",
+            "certificate_hash": "a27d3277168a3aecfaeefb8b73241ea998dfd854"
+          }
+        },
+        {
+          "client_id": "203294645532-cgmcjjm6076p2k82ss7r4je8hhtminrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkPFluLb02tVvtemIjtdtFX_f0jo-B91w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203294645532-cgmcjjm6076p2k82ss7r4je8hhtminrr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "203294645532-kak8sjmb4t7428b1cqod2legiecvkvo3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gameKakuro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
